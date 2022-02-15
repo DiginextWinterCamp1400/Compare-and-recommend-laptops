@@ -1,0 +1,13 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/card.js": "components/card.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/card.js": "components/card.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
